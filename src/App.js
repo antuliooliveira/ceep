@@ -10,8 +10,8 @@ class App extends Component {
     super();
 
     this.state = {
-      notas:[],
-      categorias:[],
+      notas:[ ],
+      categorias:[ ],
           };
   }
 
