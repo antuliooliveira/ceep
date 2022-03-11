@@ -11,7 +11,7 @@ class App extends Component {
 
     this.state = {
       notas:[],
-      categorias:["Trabalho","Escola"],
+      categorias:[],
           };
   }
 
